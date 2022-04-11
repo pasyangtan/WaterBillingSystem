@@ -19,6 +19,6 @@ if (!$result)
 ?>
 <form action="delecex.php" method="post">
 <h4>Are you sure you want to delete <br /></h4><h5><?php echo $lname; ?></h5>
-<input type="hidden" name="id" value="<?php echo $id; ?>" />
+<input type="hidden" name="Id" value="<?php echo $id; ?>" />
 <input type="submit" nsme="ok" value="Delete">
 </form>
