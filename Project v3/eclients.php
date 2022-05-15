@@ -113,7 +113,7 @@ body{
 </head>
 
 <body>
-<a href="emphome.php"><span ></span><img id="logo" src="http://localhost/wbs/img/Logo.png"></a>
+<a href="clienthome.php"><span ></span><img id="logo" src="http://localhost/wbs/img/Logo.png"></a>
 <div class="container">
 <div id="wrapper">
   <h1><center><b>Water Billing System</b></center></h1>
