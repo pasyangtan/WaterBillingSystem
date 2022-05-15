@@ -18,7 +18,7 @@
       }
   table {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  background:#6672bc;}
+  background:#000000;}
   </style>
 
 <a href="clienthome.php"><img id="logo" src="http://localhost/wbs/img/Logo.png"></a>
