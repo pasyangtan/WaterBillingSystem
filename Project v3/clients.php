@@ -134,7 +134,7 @@ body{
       
          <div class="panel panel-info">
             <div class="panel-heading">
-                <div class="panel-title"><h5>System Staffs</h5><a rel='facebox' href="addclient.php" ><button type="button" class="btn btn-primary btn-xs">Add Client</button></a></div>
+                <div class="panel-title"><h5>System Clients</h5><a rel='facebox' href="addclient.php" ><button type="button" class="btn btn-primary btn-xs">Add Client</button></a></div>
             </div>
               <div class="panel-body">
  <?php
